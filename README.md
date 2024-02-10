@@ -1,10 +1,9 @@
 Welcome to my submission!
 
-## A bit about the structure:
+## About Structure:
 I wrote the entirety of the code in the page.js file. I've done this to make the code easier to understand on a macro scale, where instead I typically would break the file into sub-components. 
 
-I've hosted it [here](https://frontend-devsoc.vercel.app/)
-Enjoy!
+I've hosted it [on vercel](https://frontend-devsoc.vercel.app/), hope you enjoy!
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
